@@ -1,3 +1,3 @@
 def search_book(title):
-return f"Searching for {title}"
-print(search_book("Python Basics"))	
+return f"Book '{title}' found in Library B")
+print(search_book("python Basics"))	
